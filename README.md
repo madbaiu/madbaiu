@@ -1,8 +1,5 @@
 Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Bayu Mahardika a.k.a [madbaiu](https://github.com/madbaiu)
 ==
-<a href="https://linkedin.com/masbaiu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:bmrdcollege@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linktr.ee/masbaiu"><img src="https://img.shields.io/badge/-LinkTree-006400?style=for-the-badge&logo=linktree" /></a>
 
 I am a recent graduate from <a href="https://unmul.ac.id">Mulawarman University</a> with a bachelor's degree in Informatics. I have a strong interest in technology, networking, design and automotive.
 You can check out my <a href="https://127.0.0.1">Resume</a> for more information about my experience and skills.
