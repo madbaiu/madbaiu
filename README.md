@@ -34,7 +34,7 @@ To leverage my skills and knowledge in cyber security and technology to contribu
 
 ##
 
-### Tools
+### Tools & Apps
 <div>
     <img src="https://img.shields.io/badge/Wireshark-black?style=flat-square&logo=wireshark&logoColor=1679A7" />
     <img src="https://img.shields.io/badge/VirtualBox-black?style=flat-square&logo=virtualbox&logoColor=183A61" />
