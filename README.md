@@ -83,7 +83,7 @@ To leverage my skills and knowledge in cyber security and technology to contribu
 ##
 
 ### Find Me
-<a href="https://linkedin.com/bmrd"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/bmrd"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:bmrdcollege@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linktr.ee/masbaiu"><img src="https://img.shields.io/badge/-LinkTree-006400?style=for-the-badge&logo=linktree" /></a>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=madbaiu&color=blueviolet&style=flat-square&label=Profile+Views" /></p>
