@@ -73,11 +73,10 @@ To leverage my skills and knowledge in cyber security and technology to contribu
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Making a Pulse Oximeter using Arduino](https://medium.com/@amandewatnitrr/making-a-pulse-oximeter-using-arduino-e0a7f21b2a5e?source=rss-e69b5e669025------2)
-- [Setting Up the Headless Raspberry Pi](https://medium.com/@amandewatnitrr/setting-up-the-headless-raspberry-pi-bb492866ee5f?source=rss-e69b5e669025------2)
-- [Getting Started with Content Writing and Blog Writing](https://medium.com/@amandewatnitrr/getting-started-with-content-writing-and-blog-writing-52cc6a7440b4?source=rss-e69b5e669025------2)
-- [What you need to know as a Hardware and IoT Engineer?? How to Begin...](https://medium.com/@amandewatnitrr/what-you-need-to-know-as-a-hardware-and-iot-engineer-how-to-begin-f85ef44b06a?source=rss-e69b5e669025------2)
-- [My First Hackathon...Summed Up](https://medium.com/@amandewatnitrr/my-first-hackathon-summed-up-48187d27e513?source=rss-e69b5e669025------2)
+- [Captive Portal Evil Twin Attack using Airgeddon](https://mrdbid.blogspot.com/2024/08/captive-portal-evil-twin-attack.html)
+- [Evil Twin Attack](https://mrdbid.blogspot.com/2024/08/evil-twin-attack-dan-cara-menghindarinya.html)
+- [HPING3 DDOS](https://mrdbid.blogspot.com/2019/12/ddos-attack-menggunakan-hping3.html)
+- [MDK3 for Wi-Fi Jamming](https://mrdbid.blogspot.com/2019/12/wifi-jamming-menggunakan-mdk3.html)
 <!-- BLOG-POST-LIST:END -->
 
 ##
