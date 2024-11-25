@@ -27,7 +27,7 @@ To leverage my skills and knowledge in cyber security and technology to contribu
     <img src="https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows&logoColor=0078D4" />
     <img src="https://img.shields.io/badge/Mint-black?style=flat-square&logo=linuxmint&logoColor=87CF3E" />
     <img src="https://img.shields.io/badge/Kali-black?style=flat-square&logo=kalilinux&logoColor=557C94" />
-    <img src="https://img.shields.io/badge/Debian-black?style=flat-square&logo=debian" />
+    <img src="https://img.shields.io/badge/Debian-black?style=flat-square&logo=debian&logoColor=557C94" />
     <img src="https://img.shields.io/badge/Ubuntu-black?style=flat-square&logo=ubuntu&logoColor=E95420" />
     <img src="https://img.shields.io/badge/Android-black?style=flat-square&logo=android&logoColor=34A853" />
     <!-- <img src="" /> -->
