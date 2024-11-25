@@ -45,6 +45,7 @@ To leverage my skills and knowledge in cyber security and technology to contribu
     <img src="https://img.shields.io/badge/FileZilla-black?style=flat-square&logo=filezilla&logoColor=BF0000" />
     <img src="https://img.shields.io/badge/Sublime-black?style=flat-square&logo=sublimetext&logoColor=FF9800" />
     <img src="https://img.shields.io/badge/AnyDesk-black?style=flat-square&logo=anydesk&logoColor=EF443B" />
+    <img src="https://img.shields.io/badge/ProxMox-black?style=flat-square&logo=proxmox&logoColor=E57000" />
     <img src="https://img.shields.io/badge/TeamViewer-black?style=flat-square&logo=teamviewer&logoColor=004680" />
     <img src="https://img.shields.io/badge/VMware-black?style=flat-square&logo=vmware&logoColor=607078" />
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-black?style=flat-square&logo=adobephotoshop&logoColor=31A8FF" />
