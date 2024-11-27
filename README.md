@@ -8,7 +8,7 @@ You can check out my <a href="https://127.0.0.1">Resume</a> for more information
 
 ### Objective
 
-To leverage my skills and knowledge in cyber security and technology to contribute effectively to a dynamic organization. With a solid foundation in this field, I am equipped to analyze, implement, and monitor security measures that safeguard digital information and systems. My goal is to apply my expertise in network security, threat detection, ethical hacking and social engineering to proactively mitigate risks and ensure the confidentiality, integrity, and availability of sensitive data. I am eager to collaborate with like-minded professionals and continue learning in this rapidly evolving field.
+Nothing to see here, im just trying something cool to kill my time :).
 
 ##
 
