@@ -61,11 +61,11 @@ Nothing to see here, im just trying something cool to kill my time :).
 
 ### Certifications
 <div>
-    <a href="https://127.0.0.1"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<!--     <a href="https://127.0.0.1"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
     <a href="https://127.0.0.1"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
     <a href="https://127.0.0.1"><img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
     <a href="https://127.0.0.1"><img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" /></a>
-    <a href="https://127.0.0.1"><img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /></a>
+    <a href="https://127.0.0.1"><img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /></a> -->
     <a href="https://127.0.0.1"><img src="https://img.shields.io/badge/MTCNA-293239?style=for-the-badge&logo=mikrotik" /></a>
     <a href="https://127.0.0.1"><img src="https://img.shields.io/badge/ITE-1BA0D7?style=for-the-badge&logo=cisco&logoColor=ffffff" /></a>
     <!-- <a href="https://127.0.0.1"><img src="" /></a> -->
