@@ -2,7 +2,7 @@ Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" wid
 ==
 
 I am a recent graduate from <a href="https://unmul.ac.id">Mulawarman University</a> with a bachelor's degree in Informatics. I have a strong interest in technology, networking, design and automotive.
-You can check out my <a href="https://drive.google.com/file/d/1pDXLQZp_bqsKPuE--oUuhSyFv7DV9rIP/view?usp=sharing" target="_blank">Resume</a> for more information about my experience and skills.
+You can check out my <a href="https://drive.google.com/file/d/1t3rvGtSiK6jKu4opSOakE6v3pP6BG-rg/view?usp=sharing" target="_blank">Resume</a> for more information about my experience and skills.
 
 ##
 
